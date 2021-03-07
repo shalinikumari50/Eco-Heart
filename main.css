@@ -107,3 +107,20 @@ a:hover {
 .material-icons {
   font-size: 28px !important;
 }
+
+.uploadPhoto {
+  font-size: 100px !important;
+  color: orange;
+  box-sizing: border-box;
+  padding: 5px;
+  margin-left: 0;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-left: -180px;
+}
+.uploadDP {
+  background: #696969;
+  border: none;
+  height: 140px;
+  padding: 5px;
+}
