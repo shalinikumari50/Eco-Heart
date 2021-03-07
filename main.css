@@ -88,3 +88,22 @@ img {
   text-decoration: none;
   transform: scale(1.02);
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+.icons {
+  color: orange;
+
+  padding: 5px;
+  margin-left: 15px;
+  margin-right: 10px;
+}
+.material-icons {
+  font-size: 28px !important;
+}
